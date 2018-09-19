@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://nzhang.netlify.com/* http://yumengzhang.me/:splat 301!
